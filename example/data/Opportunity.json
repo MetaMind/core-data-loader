@@ -1,0 +1,16 @@
+[
+  {
+    "id": "Opportunity0",
+    "accountId": "Account0",
+    "name": "Account0 - Opportunity0",
+    "StageName": "Prospecting",
+    "CloseDate": "2017-07-27"
+  },
+  {
+    "id": "Opportunity1",
+    "accountId": "Account0",
+    "name": "Account0 - Opportunity1",
+    "StageName": "Value Proposition",
+    "CloseDate": "2017-03-28"
+  }
+]

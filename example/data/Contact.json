@@ -1,0 +1,16 @@
+[
+  {
+    "id": "Contact0",
+    "accountId": "Account0",
+    "lastName": "LastName0",
+    "firstName": "FirstName0",
+    "phone": "(212) 444-4444"
+  },
+  {
+    "id": "Contact1",
+    "accountId": "Account0",
+    "lastName": "LastName1",
+    "firstName": "FirstName1",
+    "phone": "(212) 555-5555"
+ }  
+]

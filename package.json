@@ -24,5 +24,9 @@
   },
   "author": "Juan M Rodriguez",
   "license": "UNLICENSED",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "jsforce": "^1.9.3",
+    "lodash": "^4.17.15"
+  }
 }
