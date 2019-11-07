@@ -1,0 +1,28 @@
+{
+  "name": "core-data-loader",
+  "version": "1.0.0",
+  "description": "Enable users to import data into salesforce",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MetaMind/core-data-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MetaMind/core-data-loader/issues"
+  },
+  "homepage": "https://github.com/MetaMind/core-data-loader#readme",
+  "devDependencies": {
+    "@types/jest": "^24.0.22",
+    "gulp": "^4.0.0",
+    "gulp-typescript": "^5.0.1",
+    "jest": "^24.9.0",
+    "ts-jest": "^24.1.0",
+    "typescript": "^3.7.2"
+  },
+  "author": "Juan M Rodriguez",
+  "license": "UNLICENSED",
+  "private": true
+}
