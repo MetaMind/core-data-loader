@@ -26,7 +26,7 @@
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
-    "jsforce": "^1.9.3",
+    "jsforce": "^1.10.0",
     "lodash": "^4.17.15"
   }
 }
