@@ -27,6 +27,6 @@
   "private": true,
   "dependencies": {
     "jsforce": "^1.9.3",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   }
 }
